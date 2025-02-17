@@ -13,6 +13,11 @@ function App() {
 
   return (
     <>
+    {/* <FuncCom/>
+    <ListManager/>
+    <ColorBox/>
+    <NotesManager/>
+    <TodoList/> */}
    <Events></Events>
 
     </>
